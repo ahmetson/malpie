@@ -1,5 +1,13 @@
-# Loyalty System
-Proof of Concept of the trustful yet anonymous cashback system.
+# Malpie
+Proof of Concept of the trustful yet anonymous cashback system using zero-knowledge proof.
+
+It's a mobile app for the users to collect the casbacks and coupons. For the shops Malpie provides the zero-knowledge proof of the user data.
+
+For more information, check this out:
+
+https://www.youtube.com/embed/8gTu-eRWgV8?si=f8DaIqN79GjbH-Ed
+
+1st prize winner: The best use of Polygon ID at [Chainlink Constellation](https://devpost.com/software/malpie)
 
 ## Installation
 
